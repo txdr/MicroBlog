@@ -8,9 +8,9 @@ namespace MicroBlog.Pages;
 public class IndexModel : PageModel
 {
 
-    private readonly PostStore _store;
+    private readonly IBlogRepository _store;
     public List<Post> Posts { get; private set; } = new();
-    public IndexModel(PostStore store) => _store = store;
+    public IndexModel(IBlogRepository store) => _store = store;
 
     public void OnGet()
     {

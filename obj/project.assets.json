@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlog\\MicroBlog.csproj",
+      "projectUniqueName": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\MicroBlog.csproj",
       "projectName": "MicroBlog",
-      "projectPath": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlog\\MicroBlog.csproj",
+      "projectPath": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\MicroBlog.csproj",
       "packagesPath": "C:\\Users\\Taylor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlog\\obj\\",
+      "outputPath": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

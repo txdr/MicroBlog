@@ -9,8 +9,8 @@ namespace MicroBlog.Pages
     public class CreateModel : PageModel
     {
 
-        private readonly PostStore _store;
-        public CreateModel(PostStore store) => _store = store;
+        private readonly IBlogRepository _store;
+        public CreateModel(IBlogRepository store) => _store = store;
         [BindProperty]
         public InputModel Form { get; set; } = new();
 
